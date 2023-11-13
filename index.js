@@ -1,6 +1,6 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonRouter.router("Computer Science Club JSON file.json");
+const router = jsonServer.router("Computer Science Club JSON file.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8080;
 
