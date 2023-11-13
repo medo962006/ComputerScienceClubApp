@@ -1,0 +1,31 @@
+{"Algorithms & Data Structures": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/Sl7B1qU",
+      "SessionName": "Introduction to C++",
+      "SessionDesc": "Learn the basics of programming using C++, one of the fastest yet simple programming languages",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-dc71b8311b69462198264adf7378b8bd?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/EIcqQUY",
+      "SessionName": "Loops, Arrays, And functions in C++",
+      "SessionDesc": "Continue learning the basics of C++",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-eb192648fb9049b8afe84ba838c56f42?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/9sOyLUj",
+      "SessionName": "STLs",
+      "SessionDesc": "Get introduced to Standart Template Library, the essential element of any problem-solving approach",
+        "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-2dde9e163f554b9aab3e5ea78d2a176c?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/KNKH9Q7",
+      "SessionName": "Two Pointers and Binary Search algorithms",
+      "SessionDesc": "Learn the simplest algorithms used widely in problem solving and technical interview questions",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-30101892299c48f397199396fbe50912?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/IqQqTJu",
+      "SessionName": "Recursion",
+      "SessionDesc": "Learn how to implement recursion like a pro, and how to use it in popular problem solving questions",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-46aac83416fe402fb3b7d370fcd0fd41?pvs=4"
+    }}}

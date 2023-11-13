@@ -1,0 +1,26 @@
+{"Web Development": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/9yrPutI",
+      "SessionName": "HTML",
+      "SessionDesc": "Learn how to properly use HTML, the skeleton of your web pages",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/HTML-6316c65b4c794ad3be68e0be3c0e0062?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/XwPScrj",
+      "SessionName": "CSS",
+      "SessionDesc": "Learn how to use CSS (Cascading Style Sheets), the styling tool of your webpage",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/CSS-cf5828ceb43b44b4ae0e0f7286d7c5eb?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/InMOkZT",
+      "SessionName": "Introduction To JavaScript",
+      "SessionDesc": "Create your first program using the famous Programming Language JavaScript, Get your Webpage moving using the newly-learned language in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Intro-to-JS-0ac06de4945d44ed877ef375febf4c6e?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/GdjWphg",
+      "SessionName": "More in JS",
+      "SessionDesc": "Dive deeper into JavaScript Concepts, and learn how to implement them in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/More-in-JS-9b0cc25987854868a652ad8bb3f2e9bb?pvs=4"
+    }
+  }}

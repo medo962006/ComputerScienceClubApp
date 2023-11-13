@@ -1,0 +1,38 @@
+{"Machine Learning": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/lvW4PKN",
+      "SessionName": "Introduction to Machine Learning and Python",
+      "SessionDesc": "Why And How You Will Learn Machine Learning.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Introduction-to-Python-bcabe1ab5f6a4c659c57f1aad1f33386?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/ynuqubh",
+      "SessionName": "Essential Libraries and tools",
+      "SessionDesc": "Learn the essential libraries required to compute complex mathematical operations and plot data on code-generated graphs.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Essential-Libraries-and-Tools-aef7a3d523a5402a97ac154f997346e1?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/9Ghn3O4",
+      "SessionName": "Linear Regression",
+      "SessionDesc": "Learn the mathematics behind linear regression",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Linear-Regression-1297eba9cdbf45d4b0cba9b7a04eefcd?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/oSKiTR7",
+      "SessionName": "Hands On Linear Regression",
+      "SessionDesc": "Get to know how to practically implement linear regression and use it in a wide range of situations.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-Hands-on-Linear-Regression-cdeb1f3c08c144a1a1e65bac6346f0a1?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/Hu9kpaY",
+      "SessionName": "Types of Classification methods",
+      "SessionDesc": "Dive deeper into the art of machine learning, and how to operate code that can classify elements using ML models",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-Types-of-classification-methods-702502331c8049bf82952e2b7a434013?pvs=4"
+    },
+    "Session 6": {
+      "ImageLink": "https://imgur.com/Tr0vuIR",
+      "SessionName": "Model Evaluation Techniques",
+      "SessionDesc": "Model evaluation is crucial in machine learning to assess how well a trained model performs on unseen data.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-Model-Evaluation-Techniques-and-the-Final-Project-7c532377f40b437b9febd9657850ee83?pvs=4"
+    }
+  }}

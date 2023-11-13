@@ -1,0 +1,37 @@
+{"Fundamentals Of Programming": {
+  "Session 1": {
+    "ImageLink": "https://imgur.com/6Bsvv8J",
+    "SessionName": "Introduction to Python",
+    "SessionDesc": "Get to know the basics of Coding",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-2a4a989a912e4422ae3bf4bbeb4143eb?pvs=4"
+  },
+  "Session 2": {
+    "ImageLink": "https://imgur.com/Tt4DBlv",
+    "SessionName": "If Conditions and String and List methods",
+    "SessionDesc": "Dive deeper into the logic of coding, and how to optimize the flow of your code and Learn how to play with strings and list data types in your favor",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-96b502c8bb9a4f9c8209f87ec35b5c72?pvs=4"
+  },
+  "Session 3": {
+    "ImageLink": "https://imgur.com/5ysYphk",
+    "SessionName": "Tuples and Dictionaries",
+    "SessionDesc": "Dive deeper into the syntax of Python and its usages, Learn how to work with tuples and dictionaries.",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-6e67417abc3244059ca4a02ce05f0581?pvs=4"
+  },
+  "Session 4": {
+    "ImageLink": "https://imgur.com/J03BL9b",
+    "SessionName": "Loops and functions",
+    "SessionDesc": "Get to know the essential methods for a 'Don't Repeat Yourself' (DRY) code.",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-710bc38d466046d290ec661256c20c68?pvs=4"
+  },
+  "Session 5": {
+    "ImageLink": "https://imgur.com/ZBvz7HB",
+    "SessionName": "OOP in Python",
+    "SessionDesc": "Become a coding pro using Object-Oriented Programming, and use classes like never before!",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-76b4e5b6a9e84ff6b7070806eb1c9a58?pvs=4"
+  },
+  "Session 6": {
+    "ImageLink": "https://imgur.com/RISi5vz",
+    "SessionName": "What's Next? Introduction to Python Libraries",
+    "SessionDesc": "Unlock your full potential using Python libraries",
+    "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-aa01e3e669654370893e649af8b65659?pvs=4"
+  }}}
