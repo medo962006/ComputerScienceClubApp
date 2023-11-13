@@ -1,0 +1,232 @@
+{
+  "App Development": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/lvW4PKN",
+      "SessionName": "Introduction to App Development",
+      "SessionDesc": "Why And How You Will Learn App Development",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-fb8570fa6b8a47388cadd79692f798d2?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/pIrM45a",
+      "SessionName": "Introduction to Dart",
+      "SessionDesc": "Learn The definition of important Programming Concepts, and how to use basic Dart code in your favor!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-0a552b8cec5246d5971248efb1b8ce7e?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/GtgNgiT",
+      "SessionName": "Dart Follow Up",
+      "SessionDesc": "Dive deeper into the syntax of Dart and its usages, Learn how to work with basic data structures in Dart to practically use it while creating a mobile application!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-6c466a7e1e2240969a789b0336c6d59f?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/9nSbvS9",
+      "SessionName": "Advanced Dart Concepts",
+      "SessionDesc": "Learn how to efficiently write code in dart, using functions and classes using Object Oriented Programming!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-30101892299c48f397199396fbe50912?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/do24oje",
+      "SessionName": "Session 5",
+      "SessionDesc": "---",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Sessions-5-cf75da2d78114cb985c86f14888b640f?pvs=4"
+    },
+    "Session 6": {
+      "ImageLink": "https://imgur.com/oH7Dzz3",
+      "SessionName": "Introduction to Flutter",
+      "SessionDesc": "Create Your first Flutter Mobile Application using common Flutter widgets",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-96c5a859e1534eb88a2550442463c5a6?pvs=4"
+    },
+    "Session 7": {
+      "ImageLink": "https://imgur.com/YD8tJbK",
+      "SessionName": "More Flutter Concepts",
+      "SessionDesc": "---",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-7-927ab73567ca45a784bce39a83e47f61?pvs=4"
+    },
+    "Session 8": {
+      "ImageLink": "https://imgur.com/pIrM45a",
+      "SessionName": "Using Firebase in mobile development!",
+      "SessionDesc": "Learn how to use one of the most important Flutter frameworks, by creating real-life applications.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-8-5020ad86efe24cadaddad0123fe93cd7?pvs=4"
+    }
+  },
+  "Web Development": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/9yrPutI",
+      "SessionName": "HTML",
+      "SessionDesc": "Learn how to properly use HTML, the skeleton of your web pages",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/HTML-6316c65b4c794ad3be68e0be3c0e0062?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/XwPScrj",
+      "SessionName": "CSS",
+      "SessionDesc": "Learn how to use CSS (Cascading Style Sheets), the styling tool of your webpage",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/CSS-cf5828ceb43b44b4ae0e0f7286d7c5eb?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/InMOkZT",
+      "SessionName": "Introduction To JavaScript",
+      "SessionDesc": "Create your first program using the famous Programming Language JavaScript, Get your Webpage moving using the newly-learned language in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Intro-to-JS-0ac06de4945d44ed877ef375febf4c6e?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/GdjWphg",
+      "SessionName": "More in JS",
+      "SessionDesc": "Dive deeper into JavaScript Concepts, and learn how to implement them in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/More-in-JS-9b0cc25987854868a652ad8bb3f2e9bb?pvs=4"
+    }
+  },
+  "Robotics": {
+    "Introduction": {
+      "ImageLink": "https://imgur.com/9RGEaQe",
+      "SessionName": "Introduction to Robotics",
+      "SessionDesc": "Why And How You Will Learn Robotics",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Introduction-59380ac004624137a559388fc6d79502?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/GUDoT3I",
+      "SessionName": "Introduction to microcontrollers (Controller)",
+      "SessionDesc": "Learn the secrets behind microcontrollers and grasp the meaning of important robotics concepts.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Control-92c7edccb1dd42deaf44f742637cefae?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/1LVEZd8",
+      "SessionName": "circuit elements (Controller)",
+      "SessionDesc": "Learn basic concepts of electronic circuits, and how to differentiate between common circuit elements, such as transistors and capacitors.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Control-3a22a438ccbe408fba55980882ef6707?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/MUqwYSb",
+      "SessionName": "Types Of Sensors and their usages",
+      "SessionDesc": "Learn the difference between important types of sensors, and how to use them in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Control-0b7423af090845679d77f8c7bdbc007d?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/cxyW2nd",
+      "SessionName": "Mechanical components and their usages (Mechanical)",
+      "SessionDesc": "Learn the difference between unique gears and wheels and how to use them to their full potential!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Mechanical-8f498d63bdc14bd882ee624adf2928e8?pvs=4"
+    },
+    "Session 6": {
+      "ImageLink": "https://imgur.com/Zp3iSOr",
+      "SessionName": "Introduction to Solid Works and 3D Modeling",
+      "SessionDesc": "Get to know the basics of 3D modeling and its practical usage in Robotics",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Mechanical-f5513baf27804a619747c56f17cdfff1?pvs=4"
+    },
+    "Session 7": {
+      "ImageLink": "https://imgur.com/8ifwQwe",
+      "SessionName": "Planning your projects using 2D drawing with Solid Works",
+      "SessionDesc": "Learn how to plan your projects ahead using Solid Works and its 2D drawing features",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Mechanical-142625e4fb0d4a4e9caf23c1ae6170fa?pvs=4"
+    },
+    "Session 8": {
+      "ImageLink": "https://imgur.com/A1EeP1y",
+      "SessionName": "3D Assembly and motion study using Solid Works",
+      "SessionDesc": "Get to know the final step in modeling a 3D project on Solid Works!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-Mechanical-df0002066ff241d28331e699039e4fc2?pvs=4"
+    }
+  },
+  "Algorithms & Data Structures": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/Sl7B1qU",
+      "SessionName": "Introduction to C++",
+      "SessionDesc": "Learn the basics of programming using C++, one of the fastest yet simple programming languages",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-dc71b8311b69462198264adf7378b8bd?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/EIcqQUY",
+      "SessionName": "Loops, Arrays, And functions in C++",
+      "SessionDesc": "Continue learning the basics of C++",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-eb192648fb9049b8afe84ba838c56f42?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/9sOyLUj",
+      "SessionName": "STLs",
+      "SessionDesc": "Get introduced to Standart Template Library, the essential element of any problem-solving approach",
+        "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-2dde9e163f554b9aab3e5ea78d2a176c?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/KNKH9Q7",
+      "SessionName": "Two Pointers and Binary Search algorithms",
+      "SessionDesc": "Learn the simplest algorithms used widely in problem solving and technical interview questions",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-30101892299c48f397199396fbe50912?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/IqQqTJu",
+      "SessionName": "Recursion",
+      "SessionDesc": "Learn how to implement recursion like a pro, and how to use it in popular problem solving questions",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-46aac83416fe402fb3b7d370fcd0fd41?pvs=4"
+    }},"Machine Learning": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/lvW4PKN",
+      "SessionName": "Introduction to Machine Learning and Python",
+      "SessionDesc": "Why And How You Will Learn Machine Learning.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Introduction-to-Python-bcabe1ab5f6a4c659c57f1aad1f33386?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/ynuqubh",
+      "SessionName": "Essential Libraries and tools",
+      "SessionDesc": "Learn the essential libraries required to compute complex mathematical operations and plot data on code-generated graphs.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Essential-Libraries-and-Tools-aef7a3d523a5402a97ac154f997346e1?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/9Ghn3O4",
+      "SessionName": "Linear Regression",
+      "SessionDesc": "Learn the mathematics behind linear regression",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Linear-Regression-1297eba9cdbf45d4b0cba9b7a04eefcd?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/oSKiTR7",
+      "SessionName": "Hands On Linear Regression",
+      "SessionDesc": "Get to know how to practically implement linear regression and use it in a wide range of situations.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-Hands-on-Linear-Regression-cdeb1f3c08c144a1a1e65bac6346f0a1?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/Hu9kpaY",
+      "SessionName": "Types of Classification methods",
+      "SessionDesc": "Dive deeper into the art of machine learning, and how to operate code that can classify elements using ML models",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-Types-of-classification-methods-702502331c8049bf82952e2b7a434013?pvs=4"
+    },
+    "Session 6": {
+      "ImageLink": "https://imgur.com/Tr0vuIR",
+      "SessionName": "Model Evaluation Techniques",
+      "SessionDesc": "Model evaluation is crucial in machine learning to assess how well a trained model performs on unseen data.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-Model-Evaluation-Techniques-and-the-Final-Project-7c532377f40b437b9febd9657850ee83?pvs=4"
+    }
+  },"Fundamentals Of Programming": {
+    "Session 1": {
+      "ImageLink": "https://imgur.com/6Bsvv8J",
+      "SessionName": "Introduction to Python",
+      "SessionDesc": "Get to know the basics of Coding",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-2a4a989a912e4422ae3bf4bbeb4143eb?pvs=4"
+    },
+    "Session 2": {
+      "ImageLink": "https://imgur.com/Tt4DBlv",
+      "SessionName": "If Conditions and String and List methods",
+      "SessionDesc": "Dive deeper into the logic of coding, and how to optimize the flow of your code and Learn how to play with strings and list data types in your favor",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-96b502c8bb9a4f9c8209f87ec35b5c72?pvs=4"
+    },
+    "Session 3": {
+      "ImageLink": "https://imgur.com/5ysYphk",
+      "SessionName": "Tuples and Dictionaries",
+      "SessionDesc": "Dive deeper into the syntax of Python and its usages, Learn how to work with tuples and dictionaries.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-6e67417abc3244059ca4a02ce05f0581?pvs=4"
+    },
+    "Session 4": {
+      "ImageLink": "https://imgur.com/J03BL9b",
+      "SessionName": "Loops and functions",
+      "SessionDesc": "Get to know the essential methods for a 'Don't Repeat Yourself' (DRY) code.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-710bc38d466046d290ec661256c20c68?pvs=4"
+    },
+    "Session 5": {
+      "ImageLink": "https://imgur.com/ZBvz7HB",
+      "SessionName": "OOP in Python",
+      "SessionDesc": "Become a coding pro using Object-Oriented Programming, and use classes like never before!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-76b4e5b6a9e84ff6b7070806eb1c9a58?pvs=4"
+    },
+    "Session 6": {
+      "ImageLink": "https://imgur.com/RISi5vz",
+      "SessionName": "What's Next? Introduction to Python Libraries",
+      "SessionDesc": "Unlock your full potential using Python libraries",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-aa01e3e669654370893e649af8b65659?pvs=4"
+    }}
+}
