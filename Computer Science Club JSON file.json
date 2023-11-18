@@ -1,5 +1,5 @@
 {
-  "App Development": {
+  "App Development": [{
     "Session 1": {
       "ImageLink": "https://imgur.com/lvW4PKN",
       "SessionName": "Introduction to App Development",
@@ -48,8 +48,8 @@
       "SessionDesc": "Learn how to use one of the most important Flutter frameworks, by creating real-life applications.",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-8-5020ad86efe24cadaddad0123fe93cd7?pvs=4"
     }
-  },
-  "Web Development": {
+  }],
+  "Web Development": [{
     "Session 1": {
       "ImageLink": "https://imgur.com/9yrPutI",
       "SessionName": "HTML",
@@ -74,8 +74,8 @@
       "SessionDesc": "Dive deeper into JavaScript Concepts, and learn how to implement them in real-life projects",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/More-in-JS-9b0cc25987854868a652ad8bb3f2e9bb?pvs=4"
     }
-  },
-  "Robotics": {
+  }],
+  "Robotics": [{
     "Introduction": {
       "ImageLink": "https://imgur.com/9RGEaQe",
       "SessionName": "Introduction to Robotics",
@@ -124,8 +124,8 @@
       "SessionDesc": "Get to know the final step in modeling a 3D project on Solid Works!",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-Mechanical-df0002066ff241d28331e699039e4fc2?pvs=4"
     }
-  },
-  "Algorithms & Data Structures": {
+  }],
+  "Algorithms & Data Structures": [{
     "Session 1": {
       "ImageLink": "https://imgur.com/Sl7B1qU",
       "SessionName": "Introduction to C++",
@@ -155,7 +155,7 @@
       "SessionName": "Recursion",
       "SessionDesc": "Learn how to implement recursion like a pro, and how to use it in popular problem solving questions",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-5-46aac83416fe402fb3b7d370fcd0fd41?pvs=4"
-    }},"Machine Learning": {
+    }}],"Machine Learning": [{
     "Session 1": {
       "ImageLink": "https://imgur.com/lvW4PKN",
       "SessionName": "Introduction to Machine Learning and Python",
@@ -192,7 +192,7 @@
       "SessionDesc": "Model evaluation is crucial in machine learning to assess how well a trained model performs on unseen data.",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-Model-Evaluation-Techniques-and-the-Final-Project-7c532377f40b437b9febd9657850ee83?pvs=4"
     }
-  },"Fundamentals Of Programming": {
+  }],"Fundamentals Of Programming": [{
     "Session 1": {
       "ImageLink": "https://imgur.com/6Bsvv8J",
       "SessionName": "Introduction to Python",
@@ -228,5 +228,5 @@
       "SessionName": "What's Next? Introduction to Python Libraries",
       "SessionDesc": "Unlock your full potential using Python libraries",
       "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-aa01e3e669654370893e649af8b65659?pvs=4"
-    }}
+    }}]
 }
